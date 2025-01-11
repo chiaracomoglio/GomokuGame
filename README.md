@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="goban.png" width="500"> 
+<img src="goban.png" width="200"> 
 Fig. 1 Example of game state during a Gomoku match
 
 Gomoku is a traditional Japanese game, also known as "five in a row". The game is played on a 19x19 board called the Goban, where the pieces of the two players (black and white) are placed at the intersections. 
