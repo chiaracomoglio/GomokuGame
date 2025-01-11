@@ -2,6 +2,11 @@
 
 **An object-oriented C++ project to play Gomoku (Five in a Row).**
 
+<br>
+
+<img src="goban.png" width="500"> 
+Fig. 1 Example of game state during a Gomoku match
+
 Gomoku is a traditional Japanese game, also known as "five in a row". The game is played on a 19x19 board called the Goban, where the pieces of the two players (black and white) are placed at the intersections. 
 
 The first move is always made by the player using the black pieces. The goal is to align five pieces of the same color in one of the four possible directions: vertical, horizontal, diagonal, or anti-diagonal. When a player aligns five pieces in a row, the game ends.
