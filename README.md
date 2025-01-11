@@ -4,13 +4,9 @@
 
 Gomoku is a traditional Japanese game, also known as "five in a row". The game is played on a 19x19 board called the Goban, where the pieces of the two players (Nero and Bianco) are placed at the intersections. 
 
-The first move is always made by the player using the black pieces.
+The first move is always made by the player using the black pieces. The goal is to align five pieces of the same color in one of the four possible directions: vertical, horizontal, diagonal, or anti-diagonal. When a player aligns five pieces in a row, the game ends.
 
-The goal of the game is to align five pieces of the same color in one of the four possible directions: vertical, horizontal, diagonal, or anti-diagonal.
-
-When a player aligns five pieces in a row, the game ends.
-
-The proposed version is a simple implementation of the game that creates a Goban, asks both players to input their moves, keeps track of the game state, and ends the game if either the Nero or Bianco player wins.
+The proposed version is a simple implementation of the Gomoku that creates a Goban, asks both players to input their moves, keeps track of the game state, and ends the game if either the Nero or Bianco player wins.
 
 Description of the Classes
 -----------------------
